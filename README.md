@@ -2,7 +2,7 @@
 
 Jewelry recognizer is an API built by [Flask](https://flask.palletsprojects.com/en/2.0.x/). The API utilizes deep learning convolutional model, which distinguishes the jewelry from all other products. Compared to other trained model for jewelry, our jewelry recognizer can detect jewelry on hands, colorful surfaces, neck, etc. To train the model, we used Transfer learning using Mobile-Net and Inception -v3 networks, which were trained by [Imagenet](https://www.image-net.org/) dataset. Our chosen model for our API is Mobile-Net as it could give a higher accuracy of 98.12% based on the experimental results.
 
-Note: Some of the images that we used to rich our jewelry-image dataset were obtained from [here](https://github.com/princesegzy01/Jewellery-Classification)
+Note: Some of the images that we used to enrich our jewelry-image dataset were obtained from [here](https://github.com/princesegzy01/Jewellery-Classification)
 
 # Notebooks
 
