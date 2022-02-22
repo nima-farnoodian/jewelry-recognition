@@ -3,7 +3,7 @@
 '''Model is trained using Transfer Learning method. 
 A moblie-net convolutional network that was already trained on 
 Imagenet dataset with 14 million images is re-trained based on our new dataset that includes jewelry photos and negative photos. 
-The accuracy on the test dataset is 98.7 percent. Only a few samples that mostly include hands were predicted wrongly. 
+The accuracy on the test dataset is 98.12 percent. Only a few samples that mostly include hands were predicted wrongly. 
 For more detail, please refere to Transfer Learning-MobileNet.ipynb notebook.'''
 
 
