@@ -49,6 +49,7 @@ Then just run the image in the docker. Notice that host="0.0.0.0" and port=5050 
 
 Just one more thing, to test the api, you can download and install POSTMAN software (desktop version) that is meant for checking apis. To send a request, just choose body, then binary, and upload your Image. In the url section, choose post and enter http://127.0.0.1:50/predict. At the end, pres send. See the result.
 Good luck and enjoy AI power. 
+
 Nima Farnoodian and Atefeh Bahrami.
 ## An example of sending request to the API using NodeJS:
 ````
