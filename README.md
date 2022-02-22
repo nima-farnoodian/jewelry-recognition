@@ -23,7 +23,7 @@ For installing the API in your machine if you wish to rely on just python machin
 - 4.install virtualenv by this code:>> pip install virtualenv
 - 5.run >>virtualenv .
 ### To run the virtual environment, run the following command
-- 6.run >>.\scripts\activate (on windows, and maybe linux)  or source bin/activate on (linux)
+- 6.run >>.\scripts\activate on windows or source bin/activate on (linux)
 - 7.run >> pip install -r requirements.txt
 
 Now all the dependencies were installed on your machine. You can run API by the following command. Note that each time you want to run API, you should activate the virtual environment as step 6, and you should be at "ai-api-env" directory 
