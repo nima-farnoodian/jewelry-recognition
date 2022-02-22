@@ -6,7 +6,7 @@ Note: Some of the images that we used to enrich our jewelry-image dataset were o
 
 # Notebooks
 
-You can find the notebooks in the root. 
+You can find the notebooks in the root. The notebooks include the implementation of the models.
 
 - Transfer Learning-Inception V3.ipynb (Transfer Learning using Inception V3)
 
